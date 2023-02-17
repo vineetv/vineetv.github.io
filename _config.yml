@@ -20,7 +20,7 @@ author: Vineet Virmani
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About the blog: "aboutme"
  # Resources:
  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
  #  - Learn markdown: "https://www.markdowntutorial.com/"
