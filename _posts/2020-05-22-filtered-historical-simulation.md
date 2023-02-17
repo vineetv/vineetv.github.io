@@ -59,14 +59,14 @@ people came up different ways to address the issue.
 The attempts at modifying HS so that it relied more on recent data broadly came
 in three avatars.
 
-### Use a window of only very recent data
+#### Use a window of only very recent data
 
 Obvious and easy-peasy but then two things happen: i) the sample size goes down,
 and ii) if something relevant, like a big systemic crisis, did happen some time
 ago it would go missing from your history pretty soon (as time passes that event
 would no longer part of the recent window).
 
-### Weight data by age
+#### Weight data by age
 
 This again is sort of obvious. I mean if you’d rather that more weight be given
 to recent data, well, just do that. Boudoukh, Richardson and Whitelaw were one
@@ -80,7 +80,7 @@ it wouldn’t matter much anymore, unless the things that happened were like
 really major. One needs to do a bit more work to identify the VaR, but the idea
 is intuitive.
 
-### Weight data by volatility
+#### Weight data by volatility
 
 Around the same time when Boudoukh and others were thinking about modifying HS
 by using weights, some folks got the idea to think about weights a bit
