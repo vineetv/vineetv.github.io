@@ -59,37 +59,33 @@ people came up different ways to address the issue.
 The attempts at modifying HS so that it relied more on recent data broadly came
 in three avatars.
 
-#### Use a window of only very recent data
+1. *Use a window of only very recent data*: Obvious and easy-peasy but then two
+things happen: i) the sample size goes down, and ii) if something relevant, like
+a big systemic crisis, did happen some time ago it would go missing from your
+history pretty soon (as time passes that event would no longer part of the
+recent window).
 
-Obvious and easy-peasy but then two things happen: i) the sample size goes down,
-and ii) if something relevant, like a big systemic crisis, did happen some time
-ago it would go missing from your history pretty soon (as time passes that event
-would no longer part of the recent window).
+2. *Weight data by age*: This again is sort of obvious. I mean if you’d rather
+that more weight be given to recent data, well, just do that. Boudoukh,
+Richardson and Whitelaw were one of the first set of guys to flesh out this idea
+and showed how to apply it in practice in an article in Risk magazine
+in 1998. They said, let’s decide on some number $$ \lambda$$ between 0 and 1,
+perhaps close to 1, and multiply historical observations with powers of. So,
+yesterday’s return could be multiplied by $$ \lambda$$ and the one before by $$
+\lambda^2$$ and so on. That was the basic idea and so now you could use all
+historical data, and if something happened long ago it wouldn’t matter much
+anymore, unless the things that happened were like really major. One needs to do
+a bit more work to identify the VaR, but the idea is intuitive.
 
-#### Weight data by age
-
-This again is sort of obvious. I mean if you’d rather that more weight be given
-to recent data, well, just do that. Boudoukh, Richardson and Whitelaw were one
-of the first set of guys to flesh out this idea and showed how to apply it in
-practice in an article in Risk magazine in 1998. They said, let’s decide on some
-number $$ \lambda$$  between 0 and 1, perhaps close to 1, and multiply historical
-observations with powers of. So, yesterday’s return could be multiplied by
-$$ \lambda$$  and the one before by $$ \lambda^2$$  and so on. That was the basic idea
-and so now you could use all historical data, and if something happened long ago
-it wouldn’t matter much anymore, unless the things that happened were like
-really major. One needs to do a bit more work to identify the VaR, but the idea
-is intuitive.
-
-#### Weight data by volatility
-
-Around the same time when Boudoukh and others were thinking about modifying HS
-by using weights, some folks got the idea to think about weights a bit
-differently. They said, look, returns are already scaled so it shouldn’t matter
-that much which epoch they are from as long as they are not from an era super
-old, but the memory effect needs to be taken more seriously. If the whole method
-of HS goes for a sixer if returns over days are not independent then that’s
-really bad news. Since this was an important development historically, this
-probably deserves a separate section to talk about it.
+3. *Weight data by volatility*: Around the same time when Boudoukh and others
+were thinking about modifying HS by using weights, some folks got the idea to
+think about weights a bit differently. They said, look, returns are already
+scaled so it shouldn’t matter that much which epoch they are from as long as
+they are not from an era super old, but the memory effect needs to be taken more
+seriously. If the whole method of HS goes for a sixer if returns over days are
+not independent then that’s really bad news. Since this was an important
+development historically, this probably deserves a separate section to talk
+about it.
 
 ## Volatility weighted historical simulation
 
