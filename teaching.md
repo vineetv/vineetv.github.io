@@ -31,9 +31,27 @@ Econ 184B, Econometrics, Brandeis University
 Teaching Assistant for Zhuan Pei and Davide Pettenuzzo  
 Fall 2014, Spring 2015
 
-## Core courses 
+## Core courses  
 
-1. Financial Markets
-2. Corporate Finance
-3. Macroeconomics and Economic Policy
+1. Financial Markets: This course introduces finance theory and describes
+   economics of bond, equity, FX and derivatives markets. This course forms the
+   foundation for all subsequent finance courses at IIMA.  
+   I often teach this course to our PGP and PGPX students.
+2. Corporate Finance: This course covers the principal decisions in corporate
+   finance - working capital management, investment and financing decisions,
+   mergers and acquisitions, capital structure, dividend policy and risk
+   management.  
+   I often teach this course to our PGPX students. 
+3. Macroeconomics and Economic Policy: Why do some countries grow at a faster
+   rate than others? Why are there inflation, unemployment and recessions? What
+   are the sources of these aggregate economic fluctuations? Can the government
+   policymakers do something about them? Should they? This course provides a
+   framework to start thinking about these questions. It introduces students to
+   the definition and measurement of aggregate variables such as income and
+   expenditure, inflation and unemployment, and then develop a conceptual
+   framework that provides insights into the determinants of these aggregate
+   measures that macroeconomics concerns itself with. The course will also
+   include an analysis of the role of government and central bank with reference
+   to monetary, fiscal and foreign exchange rate policies.  
+   I no longer teach this course.
 
