@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: 
+subtitle: Do not take anything you see on this blog too seriously
 tags: [about]
 ---
 
@@ -11,6 +11,6 @@ research, teaching and other interests, mostly.
 
 Do not take anything you see here too seriously (the hint is in the blog name
 itself!).  In the words of inimitable [Matt
-Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine),
+Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine){:target="_blank"},
 nothing here is investment or legal advice.
 
