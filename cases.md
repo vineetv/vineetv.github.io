@@ -6,7 +6,7 @@ title: Cases and Technical Notes
 ## Cases and Technical Notes
 
 **C7. Reliance Communications: On the Brink of Bankruptcy** (with [Jayanth
-R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+R. Varma](https://www.jrvarma.in/){:target="_blank"})  
 
 [Case no.
 F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html):
@@ -25,7 +25,7 @@ including its market share, stock price, credit rating and balance sheet
 variables. The case would be appropriate for use in an advanced corporate
 finance or a strategic risk management or a trading strategies course.  
 
-**C6. Swap Curve Steepener** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+**C6. Swap Curve Steepener** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
 
 [Case no.
 F&A0539](https://cases.iima.ac.in/index.php/swap-curve-steepener.html): The case
@@ -38,7 +38,7 @@ risks that investing in such a product poses, and presents relevant data on the
 CMS rates, term structure and recent financial history of the issuer to help
 resolve James’s decision problem.  
 
-**C5. Hundred Million Dollar Beta** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+**C5. Hundred Million Dollar Beta** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
 
 [Case
 no. F&A0534](https://cases.iima.ac.in/index.php/hundred-million-dollar-beta.html):
@@ -59,7 +59,7 @@ big difference to the results and can no longer be ignored. In an advanced
 course, the case also provides an opportunity to expose the participants to the
 large academic literature on beta estimation.  
 
-**C4. Swiss Roll (B)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+**C4. Swiss Roll (B)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
 
 [Case no. F&A0532(B)](https://cases.iima.ac.in/index.php/swiss-roll-b.html): In
 the aftermath of global financial crisis of 2008 and the ensuing capital flows
@@ -78,7 +78,7 @@ main casualties after the peg was discontinued, with a focus on one particular
 retail foreign exchange (FX) brokerage firm, FXCM Inc., which was left with a
 negative equity of almost $300 million after removal of the peg.  
  
-**C3. Swiss Roll (A)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+**C3. Swiss Roll (A)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
 
 [Case no. F&A0532(A)](https://cases.iima.ac.in/index.php/swiss-roll-a.html): In
 September, 2011, to prevent its currency from appreciating after the Global
