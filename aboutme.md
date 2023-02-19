@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About the blog and me
 subtitle: Do not take anything you see on this blog too seriously
 tags: [about]
 ---
