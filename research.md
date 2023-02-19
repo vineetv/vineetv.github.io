@@ -15,8 +15,8 @@ Kumar](https://stafflive.iimcal.ac.in/users/sudarshan){:target="_blank"})
 **J14**. Choice of margin period of risk and netting for computing margins in
 central counterparty clearinghouses: a Monte Carlo investigation, [Journal of
 Financial Market
-Infrastructures](http://doi.org/10.21314/JFMI.2022.003){:target="_blank"}, 2021
-(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
+Infrastructures](https://www.risk.net/journal-of-financial-market-infrastructures/7953691/choice-of-margin-period-of-risk-and-netting-for-computing-margins-in-central-counterparty-clearinghouses-a-monte-carlo-investigation){:target="_blank"},
+2021 (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
 
 **J13**. Rational repricing of risk during Covid-19: Evidence from Indian single
 stock option market, [Journal of Futures
@@ -84,8 +84,10 @@ Letters](http://www.tandfonline.com/doi/abs/10.1080/13504851.2012.657343){:targe
 [WP2006-06-01](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2006-06-01vvirmani.pdf){:target="_blank"}]
 
 **J2**. GDP-Indexed Bonds, an [RBI DRG
-study](http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/DSRS210410.pdf) (with
-Errol D'Souza), 2010
+study](http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/DSRS210410.pdf){:target="_blank"}
+(with [Errol
+D'Souza](https://www.iima.ac.in/faculty-research/faculty-directory/errol-dsouza){:target="_blank"}
+and RBI staff), 2010
    
 **J1**. A re-look at the long-run stability of the money multiplier in India,
 [Indian Journal of
