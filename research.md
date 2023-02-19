@@ -5,26 +5,29 @@ title: Publications
 
 ## Journal articles 
 
-J15. Term structure estimation with liquidity-adjusted Affine Nelson Siegel
+**J15**. Term structure estimation with liquidity-adjusted Affine Nelson Siegel
 model: A nonlinear state space approach applied to the Indian bond market,
-[Applied Economics](https://doi.org/10.1080/00036846.2021.1967866), 2022 (with
-[Sudarshan
+[Applied
+Economics](https://doi.org/10.1080/00036846.2021.1967866){:target="_blank"},
+2022 (with [Sudarshan
 Kumar](https://stafflive.iimcal.ac.in/users/sudarshan){:target="_blank"})
 
-J14. Choice of margin period of risk and netting for computing margins in
+**J14**. Choice of margin period of risk and netting for computing margins in
 central counterparty clearinghouses: a Monte Carlo investigation, [Journal of
-Financial Market Infrastructures](http://doi.org/10.21314/JFMI.2022.003), 2021
+Financial Market
+Infrastructures](http://doi.org/10.21314/JFMI.2022.003){:target="_blank"}, 2021
 (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
 
 J13. Rational repricing of risk during Covid-19: Evidence from Indian single
 stock option market, [Journal of Futures
-Markets](https://doi.org/10.1002/fut.22240), 2021 (with [Jayanth
-R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
+Markets](https://doi.org/10.1002/fut.22240){:target="_blank"}, 2021 (with
+[Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
 K. Agarwalla](https://www.iima.ac.in/faculty-research/faculty-directory/sobhesh-agarwalla))
 
 J12. The impact of COVID-19 on tail risk: Evidence from Nifty index options,
-[Economics Letters](https://doi.org/10.1016/j.econlet.2021.109878), 2021 (with
-[Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
+[Economics
+Letters](https://doi.org/10.1016/j.econlet.2021.109878){:target="_blank"}, 2021
+(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
 K. Agarwalla](https://www.iima.ac.in/faculty-research/faculty-directory/sobhesh-agarwalla))
 
 J11. Web applications for teaching portfolio analysis and option pricing, Journal
@@ -43,8 +46,9 @@ the Indian Premier League,
 and [S. Jaikumar](https://www.iimcal.ac.in/users/saravana){:target="_blank"})
 
 J8.Numeracy and Financial Literacy of Forest- dependent Communities,
-[Vikalpa](https://doi.org/10.1177/0256090919862059), 2019 (with
-B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
+[Vikalpa](https://doi.org/10.1177/0256090919862059){:target="_blank"}, 2019
+(with
+[B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
 
 J7. Structured Products for Corporate Risk Management, Global Business Press
 Expert Insights, 2018 (with [Jayanth
