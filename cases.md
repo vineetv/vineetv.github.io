@@ -6,10 +6,9 @@ title: Cases and Technical Notes
 ## Cases 
 
 **C7. Reliance Communications: On the Brink of Bankruptcy** (with [Jayanth
-R. Varma](https://www.jrvarma.in/){:target="_blank"})  
+R. Varma](https://www.jrvarma.in/){:target="_blank"}): [Case
+F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html)  
 
-[Case no.
-F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html):
 This case describes the change in fortune of Reliance Communications (RCom) from
 being a pioneer in offering low-cost mobile telephony to the brink of
 bankruptcy. After giving a brief background on the family history of Reliance
@@ -23,25 +22,25 @@ so. The case provides data on yields on RCom's Indian Rupee and US dollar bonds
 over time and provides additional relevant financial information about RCom,
 including its market share, stock price, credit rating and balance sheet
 variables. The case would be appropriate for use in an advanced corporate
-finance or a strategic risk management or a trading strategies course.  
+finance or a strategic risk management or a trading strategies course.
 
-**C6. Swap Curve Steepener** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
+**C6. Swap Curve Steepener** (with [Jayanth
+R. Varma](https://www.jrvarma.in/){:target="_blank"}): [Case
+F&A0539](https://cases.iima.ac.in/index.php/swap-curve-steepener.html)  
 
-[Case no.
-F&A0539](https://cases.iima.ac.in/index.php/swap-curve-steepener.html): The case
-is about a decision problem facing James on whether or not to invest in a
-structured product called the “CMS Steepener” issued by a large US investment
+The case is about a decision problem facing James on whether or not to invest in
+a structured product called the “CMS Steepener” issued by a large US investment
 bank. The payoff from the product is linked to two constant maturity swap (CMS)
 rates, and the investor profits if the difference between the two CMS rates
 increases, or alternatively if the CMS curve steepens. The case describes the
 risks that investing in such a product poses, and presents relevant data on the
 CMS rates, term structure and recent financial history of the issuer to help
-resolve James’s decision problem.  
+resolve James’s decision problem.
 
-**C5. Hundred Million Dollar Beta** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
+**C5. Hundred Million Dollar Beta** (with [Jayanth
+R. Varma](https://www.jrvarma.in/){:target="_blank"}): [Case
+no. F&A0534](https://cases.iima.ac.in/index.php/hundred-million-dollar-beta.html)  
 
-[Case
-no. F&A0534](https://cases.iima.ac.in/index.php/hundred-million-dollar-beta.html):
 This case is about the practical and conceptual issues involved in estimating
 the beta of a company for the purpose of computing the cost of capital using the
 CAPM (Capital Asset Pricing Model). In many applications of the CAPM in the
@@ -57,14 +56,15 @@ and statistical issues that are often glossed over as minor details of the
 estimation process. In the real world, these apparantely minor details make a
 big difference to the results and can no longer be ignored. In an advanced
 course, the case also provides an opportunity to expose the participants to the
-large academic literature on beta estimation.  
+large academic literature on beta estimation.
 
-**C4. Swiss Roll (B)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
+**C4. Swiss Roll (B)** (with [Jayanth
+R. Varma](https://www.jrvarma.in/){:target="_blank"}): [Case
+F&A0532(B)](https://cases.iima.ac.in/index.php/swiss-roll-b.html)  
 
-[Case no. F&A0532(B)](https://cases.iima.ac.in/index.php/swiss-roll-b.html): In
-the aftermath of global financial crisis of 2008 and the ensuing capital flows
-into Switzerland, the Swiss National Bank (SNB) decided to peg Swiss Franc (CHF)
-to the Euro (EUR), and announced that it would not let CHF go beyond 1.20
+In the aftermath of global financial crisis of 2008 and the ensuing capital
+flows into Switzerland, the Swiss National Bank (SNB) decided to peg Swiss Franc
+(CHF) to the Euro (EUR), and announced that it would not let CHF go beyond 1.20
 starting 6 September, 20 11. With ever-increasing capital flows, maintaining the
 peg required the SNB to purchase foreign currency assets almost endlessly, and
 by the end-of 2014 its foreign exchange reserves stood at almost 80% of its
@@ -78,10 +78,11 @@ main casualties after the peg was discontinued, with a focus on one particular
 retail foreign exchange (FX) brokerage firm, FXCM Inc., which was left with a
 negative equity of almost $300 million after removal of the peg.  
  
-**C3. Swiss Roll (A)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})  
+**C3. Swiss Roll (A)** (with [Jayanth
+R. Varma](https://www.jrvarma.in/){:target="_blank"}): [Case
+F&A0532(A)](https://cases.iima.ac.in/index.php/swiss-roll-a.html)  
 
-[Case no. F&A0532(A)](https://cases.iima.ac.in/index.php/swiss-roll-a.html): In
-September, 2011, to prevent its currency from appreciating after the Global
+In September, 2011, to prevent its currency from appreciating after the Global
 Financial Crisis, the Swiss National Bank (SNB) decided to peg its currency to
 EUR and announced that it would not let CHF go beyond 1/1.20 EUR. Maintaining
 the peg required the SNB to purchase foreign currency assets virtually endlessly
@@ -93,9 +94,10 @@ levels and then, facing impending quantitative easing by the European Central
 Bank, announced the removal of the peg on January 15, 2015. The case describes
 the backdrop and the circumstances leading up to removal of the peg.  
 
-**C2. Industrial Financing Corporation of India Ltd. (IFCI) -- B** (with G. Raghuram and Chitra Singla)  
+**C2. Industrial Financing Corporation of India Ltd. (IFCI) -- B** (with
+G. Raghuram and Chitra Singla): [Case
+BP0363(B)](https://cases.iima.ac.in/index.php/ifci-limited-b.html)  
 
-[Case no. BP0363(B)](https://cases.iima.ac.in/index.php/ifci-limited-b.html):
 IFCI Limited-a non-banking financial corporation in India was struggling with
 issues of negative Capital Adequacy Ratio and high non-performing assets
 till 2007. The company had not done any business for a decade until 2007. July,
@@ -105,9 +107,10 @@ help the firm turnaround. The main focus of the case is on the implementation of
 some of the key strategic decisions. The case gives opportunity to review IFCI’s
 strategy and make recommendations for future expansion.  
 
-**C1. Industrial Financing Corporation of India Ltd. (IFCI) -- A** (with G. Raghuram and Chitra Singla)  
+**C1. Industrial Financing Corporation of India Ltd. (IFCI) -- A** (with
+G. Raghuram and Chitra Singla): [Case
+BP0363(A)](https://cases.iima.ac.in/index.php/ifci-limited-a.html)  
 
-[Case no. BP0363(A)](https://cases.iima.ac.in/index.php/ifci-limited-a.html):
 This case mainly talks about the journey of IFCI since its inception amidst the
 institutional changes that had taken place in India; how the changing
 institutional context of an emerging economy like India could affect the growth
@@ -115,60 +118,56 @@ path of a firm in a regulated industry; and how a leadership style attempted to
 turn around and build the firm's position in the industry. Atul Rai had taken a
 number of initiatives in light of the above. Next on his agenda was to turn IFCI
 into a leading financial institution and come up with a road map to achieve
-this.  
+this.
 
 ## Technical notes
 
-**T6. Probability in Finance-IV: The Vanna-Volga Method**  
+**T6. Probability in Finance-IV: The Vanna-Volga Method**: [TN
+F&A0531TEC](https://cases.iima.ac.in/index.php/probability-in-finance-iv-the-vanna-volga-method.html)
 
-[TN no.
-F&A0531TEC](https://cases.iima.ac.in/index.php/probability-in-finance-iv-the-vanna-volga-method.html):
 This note describes the intuition and the mathematics behind the Vanna-Volga
 method for pricing derivatives in the foreign-exchange markets. After building
 the intuition through the lens of risk neutral density and movement in
 volatility smile, the note explains the mathematics of the necessary adjustment
 to the Black-Scholes valuation formula in terms of its Greeks (Vega,Vanna and
-Volga).  
+Volga).
 
-**T5. New-Keynesian Macro Models-I: Workings of a Baseline DSGE Model with Monopolistic Competition and Nominal Rigidities**  
+**T5. New-Keynesian Macro Models-I: Workings of a Baseline DSGE Model with
+Monopolistic Competition and Nominal Rigidities**: [TN
+ECO355TEC](https://cases.iima.ac.in/index.php/new-keynesian-macro-models-i-workings-of-a-baseline-dsge-model-with-monopolistic-competition-and-nominal-rigidities.html)  
 
-[Case no.
-ECO355TEC](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html):
 This note lays out the necessary workings for solving a baseline New-Keyneisan
 Dynamic Stochastic General Equilibrium model with monopolistic competition and
-nominal rigidities (via the Calvo staggered-price setting model).  
+nominal rigidities (via the Calvo staggered-price setting model).
 
-**T4. Probability in Finance -- III: Mathematics of the Dupire Local Volatility Model**  
+**T4. Probability in Finance -- III: Mathematics of the Dupire Local Volatility
+Model**: [TN
+F&A0524TEC](https://cases.iima.ac.in/index.php/probability-in-finance-iii-mathematics-of-the-dupire-local-volatility-model.html)  
 
-[TN no.
-F&A0524TEC](https://cases.iima.ac.in/index.php/probability-in-finance-iii-mathematics-of-the-dupire-local-volatility-model.html):
 This note lays out the necessary background and essential mathematics for
 understanding the Dupire Local Volatility model in derivatives pricing.  
 
 **T3. Probability in Finance -- II: Numeraire Change in Option Pricing – Select
-Applications**  
+Applications**: [TN
+F&A0523TEC](https://cases.iima.ac.in/index.php/probability-in-finance-ii-numeraire-change-in-option-pricing-select-applications.html)  
 
-[TN no.
-F&A0523TEC](https://cases.iima.ac.in/index.php/probability-in-finance-ii-numeraire-change-in-option-pricing-select-applications.html):
 This technical note lays out the necessary background with examples for
 numeraire change applications in stochastic calculus. Four examples are
 presented with full workings, including:a) pricing of a call option, b) pricing
 of an exchange/Margrabe option, c) relationship between forward rates and
-expected spot rates and d) use of change of numeraire in foreign markets.  
+expected spot rates and d) use of change of numeraire in foreign markets.
 
 **T2. Probability in Finance -- I: Mathematics of the Martingale and the
-Numeraire Change Approach to the Black-Scholes Option Pricing Formula**  
+Numeraire Change Approach to the Black-Scholes Option Pricing Formula**: [TN
+F&A0514TEC](https://cases.iima.ac.in/index.php/probability-in-finance-i-mathematics-of-the-martingale-and-the-numeraire-change-approach-to-the-black-scholes-option-pricing-formula.html)  
 
-[TN no.
-F&A0514TEC](https://cases.iima.ac.in/index.php/probability-in-finance-i-mathematics-of-the-martingale-and-the-numeraire-change-approach-to-the-black-scholes-option-pricing-formula.html):
 This technical note lays out the necessary mathematics for understanding the
 martingale and change of numeraire approaches to the Black-Scholes option
-pricing formula.  
+pricing formula.
 
-**T1. PDEs in Finance -- I: Mathematics of the Black-Scholes-Merton PDE**  
+**T1. PDEs in Finance -- I: Mathematics of the Black-Scholes-Merton PDE**: [TN
+F&A0492TEC](https://cases.iima.ac.in/index.php/pdes-in-finance-i-mathematics-of-the-black-scholes-merton-pde.html)  
 
-[TN no.
-F&A0492TEC](https://cases.iima.ac.in/index.php/pdes-in-finance-i-mathematics-of-the-black-scholes-merton-pde.html):
 This technical note lays out the necessary mathematics for understanding the
-Black-Scholes-Merton Partial Differential Equation.  
+Black-Scholes-Merton Partial Differential Equation.
 
