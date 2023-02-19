@@ -41,7 +41,7 @@ Andhra Pradesh,
 [Vikalpa](https://doi.org/10.1177/02560909211015460){:target="_blank"}, (with
 [B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
 [published version of working paper
-[WP2013-12-02](http://www.iima.ac.in/assets/snippets/workingpaperpdf/17809571402013-12-02.pdf)]
+[WP2013-12-02](https://www.iima.ac.in/sites/default/files/rnpfiles/17809571402013-12-02.pdf)]
 
 **J9**. Shareholders’ reaction to ethical image of sports teams: an event study
 in the Indian Premier League,
@@ -70,7 +70,7 @@ R. Varma](https://www.jrvarma.in/){:target="_blank"})
 Engineering](http://dx.doi.org/10.1109/MCSE.2016.28){:target="_blank"}, 2016
 (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}) [published
 version of working paper
-[WP2015-03-16](http://icmrindia.vikalpa.com/assets/snippets/workingpaperpdf/10947720332015-03-16.pdf){:target="_blank"}]
+[WP2015-03-16](https://www.iima.ac.in/sites/default/files/rnpfiles/10947720332015-03-16.pdf){:target="_blank"}]
    
 **J4**. Distribution of Cross-Section of Price Changes and Measurement of
 Inflation, [Indian Economic
@@ -82,7 +82,7 @@ Journal](https://doi.org/10.1177/001946622012020){:target="_blank"}, 2012
 with the Nelson-Siegel Specification, [Applied Economics
 Letters](http://www.tandfonline.com/doi/abs/10.1080/13504851.2012.657343){:target="_blank"},
 2012 [published version of working paper
-[WP2006-06-01](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2006-06-01vvirmani.pdf){:target="_blank"}]
+[WP2006-06-01](https://www.iima.ac.in/sites/default/files/rnpfiles/2006-06-01vvirmani.pdf){:target="_blank"}]
 
 **J2**. GDP-Indexed Bonds, an [RBI DRG
 study](http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/DSRS210410.pdf){:target="_blank"}
