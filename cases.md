@@ -5,7 +5,8 @@ title: Cases and Technical Notes
 
 ## Cases
 
-**C7. Reliance Communications: On the Brink of Bankruptcy**: [Case no.
+**C7. Reliance Communications: On the Brink of Bankruptcy** (with [Jayanth
+R. Varma](https://www.jrvarma.in/)): [Case no.
 F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html).  
 
 This case describes the change in fortune of Reliance Communications (RCom) from
@@ -22,8 +23,6 @@ over time and provides additional relevant financial information about RCom,
 including its market share, stock price, credit rating and balance sheet
 variables. The case would be appropriate for use in an advanced corporate
 finance or a strategic risk management or a trading strategies course.  
-
-This case is written jointly with [Jayanth R. Varma](https://www.jrvarma.in/).
 
 **C2. Asset Pricing**: This PhD course introduces the theory of financial
 economics and the language of modern asset pricing in discrete time. The course
