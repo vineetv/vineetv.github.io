@@ -119,22 +119,56 @@ this.
 
 ## Technical notes
 
-**C7. Reliance Communications: On the Brink of Bankruptcy** (with [Jayanth
-R. Varma](https://www.jrvarma.in/){:target="_blank"})  
+**T6. Probability in Finance-IV: The Vanna-Volga Method**  
+
+[TN no.
+F&A0531TEC](https://cases.iima.ac.in/index.php/probability-in-finance-iv-the-vanna-volga-method.html):
+This note describes the intuition and the mathematics behind the Vanna-Volga
+method for pricing derivatives in the foreign-exchange markets. After building
+the intuition through the lens of risk neutral density and movement in
+volatility smile, the note explains the mathematics of the necessary adjustment
+to the Black-Scholes valuation formula in terms of its Greeks (Vega,Vanna and
+Volga).  
+
+**T5. New-Keynesian Macro Models-I: Workings of a Baseline DSGE Model with Monopolistic Competition and Nominal Rigidities**  
 
 [Case no.
-F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html):
-This case describes the change in fortune of Reliance Communications (RCom) from
-being a pioneer in offering low-cost mobile telephony to the brink of
-bankruptcy. After giving a brief background on the family history of Reliance
-Industries, its break-up and the launch of RCom, it describes the changing
-dynamics of the Indian telecommunications industry after the launch of Reliance
-Jio and the difficulties faced by RCom. As RCom's debt troubles increased, while
-its stock price and its credit rating plunged, yields on its Indian Rupee bonds
-barely moved. The case allows for discussing ways of implementing capital
-structure arbitrage in such situations and analyze issues that arise in doing
-so. The case provides data on yields on RCom's Indian Rupee and US dollar bonds
-over time and provides additional relevant financial information about RCom,
-including its market share, stock price, credit rating and balance sheet
-variables. The case would be appropriate for use in an advanced corporate
-finance or a strategic risk management or a trading strategies course.  
+ECO355TEC](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html):
+This note lays out the necessary workings for solving a baseline New-Keyneisan
+Dynamic Stochastic General Equilibrium model with monopolistic competition and
+nominal rigidities (via the Calvo staggered-price setting model).  
+
+**T4. Probability in Finance -- III: Mathematics of the Dupire Local Volatility Model**  
+
+[TN no.
+F&A0524TEC](https://cases.iima.ac.in/index.php/probability-in-finance-iii-mathematics-of-the-dupire-local-volatility-model.html):
+This note lays out the necessary background and essential mathematics for
+understanding the Dupire Local Volatility model in derivatives pricing.  
+
+**T3. Probability in Finance -- II: Numeraire Change in Option Pricing – Select
+Applications**  
+
+[TN no.
+F&A0523TEC](https://cases.iima.ac.in/index.php/probability-in-finance-ii-numeraire-change-in-option-pricing-select-applications.html):
+This technical note lays out the necessary background with examples for
+numeraire change applications in stochastic calculus. Four examples are
+presented with full workings, including:a) pricing of a call option, b) pricing
+of an exchange/Margrabe option, c) relationship between forward rates and
+expected spot rates and d) use of change of numeraire in foreign markets.  
+
+**T2. Probability in Finance -- I: Mathematics of the Martingale and the
+Numeraire Change Approach to the Black-Scholes Option Pricing Formula**  
+
+[TN no.
+F&A0514TEC](https://cases.iima.ac.in/index.php/probability-in-finance-i-mathematics-of-the-martingale-and-the-numeraire-change-approach-to-the-black-scholes-option-pricing-formula.html):
+This technical note lays out the necessary mathematics for understanding the
+martingale and change of numeraire approaches to the Black-Scholes option
+pricing formula.  
+
+**T1. PDEs in Finance -- I: Mathematics of the Black-Scholes-Merton PDE**  
+
+[TN no.
+F&A0492TEC](https://cases.iima.ac.in/index.php/pdes-in-finance-i-mathematics-of-the-black-scholes-merton-pde.html):
+This technical note lays out the necessary mathematics for understanding the
+Black-Scholes-Merton Partial Differential Equation.  
+
