@@ -95,106 +95,64 @@ Economics](http://www.indianjournalofeconomics.com/april2007.htm#4){:target="_bl
 2007 [published version of W7,
 [WP2004-09-02](https://www.iima.ac.in/sites/default/files/rnpfiles/2004-09-02vineet.pdf){:target="_blank"}]
 
-## Working papers
+## Working papers 
 
-**W20**. Shiny Alternative for Finance in the Clasroom,
-[WP2017-03-05](https://web.iima.ac.in/assets/snippets/workingpaperpdf/2582881092017-03-05.pdf){:target="_blank"}
-(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}), 2017
-
-**W19**. Open Access Temptations: Buyer Beware,
+**W12**. Open Access Temptations: Buyer Beware,
 [WP2016-03-49](https://www.iima.ac.in/sites/default/files/rnpfiles/4901264602016-03-49.pdf){:target="_blank"},
 2016
 
-**W18**. Are Investors Ethics Agnostic,
-[WP2015-03-16](https://www.iima.ac.in/sites/default/files/rnpfiles/17199785302015-03-12.pdf){:target="_blank"}
-(with
-[V. Pingali](https://www.iima.ac.in/faculty-research/faculty-directory/Viswanath-Pingali){:target="_blank"}
-and [S. Jaikumar](https://www.iimcal.ac.in/users/saravana){:target="_blank"}), 2015
-
-**W17**. Derivatives Pricing using QuantLib: An Introduction,
-[WP2015-03-16](http://icmrindia.vikalpa.com/assets/snippets/workingpaperpdf/10947720332015-03-16.pdf){:target="_blank"}
-(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}), 2015
-
-**W16**. Model Risk in Pricing Path-dependent Derivatives: An Illustration,
+**W11**. Model Risk in Pricing Path-dependent Derivatives: An Illustration,
 [WP2014-03-22](http://www.iima.ac.in/assets/snippets/workingpaperpdf/16203593332014-03-22.pdf){:target="_blank"},
 2014
 
-**W15**. Impatience of Forest Dependent Communities: Evidence from Andhra
-Pradesh,
-[WP2013-12-02](http://www.iima.ac.in/assets/snippets/workingpaperpdf/17809571402013-12-02.pdf)
-(with
-[B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"}),
-2013
-
-**W14**. Attitudes towards Risk of Forest Dependent Communities: Evidence from
+**W10**. Attitudes towards Risk of Forest Dependent Communities: Evidence from
 Andhra Pradesh,
 [WP2013-12-01](http://www.iima.ac.in/assets/snippets/workingpaperpdf/14846613122013-12-01.pdf)
 (with
 [B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"}),
 2013
 
-**W13**. Numeracy and Financial Literacy of Forest Dependent Communities
-Evidence from Andhra Pradesh,
-[WP2013-09-02](https://www.iima.ac.in/sites/default/files/rnpfiles/8206755502013-09-02.pdf)
-(with
-[B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"}),
-2013
-
-**W12**. On the Choice of Optimization Routine in Estimation of Parsimonious
+**W9**. On the Choice of Optimization Routine in Estimation of Parsimonious
 Term Structure Models: Results from the Svensson Model,
 [WP2013-01-02](http://www.iima.ac.in/assets/snippets/workingpaperpdf/15603166612013-01-02.pdf){:target="_blank"},
 2013
 
-**W11**. On estimability of parsimonious term structure models: An experiment
-with three popular specifications,
-[WP2006-06-01](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2006-06-01vvirmani.pdf){:target="_blank"},
-2006
-   
-**W10**. Assessing NSEs daily zero coupon yield curve estimates: A comparison
+**W8**. Assessing NSEs daily zero coupon yield curve estimates: A comparison
 with few competing alternatives,
 [WP2006-05-05](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2006-05-05vvirmani.pdf){:target="_blank"},
 2006
 
-**W9**. Information in the term structure -- The Indian evidence (I): Modeling
+**W7**. Information in the term structure -- The Indian evidence (I): Modeling
 the term structure and information at the short end for future inflation,
 [WP2006-03-01](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2006-03-01vineet.pdf){:target="_blank"},
 2006
 
-**W8**. Examination of the credit channel of monetary transmission in India:
+**W6**. Examination of the credit channel of monetary transmission in India:
 Results from response of commercial banks’ balance sheet to a monetary policy
 shock,
 [WP2004-09-03](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2004-09-03vineet.pdf){:target="_blank"},
 2004
 
-**W7**. A Re-look at the Long-Run Stability of the Money Multiplier in India,
-2004,
-[WP2004-09-02](https://www.iima.ac.in/sites/default/files/rnpfiles/2004-09-02vineet.pdf){:target="_blank"}
-
-**W6**. Operationalising Taylor-type rules for the Indian economy: Issues and
+**W5**. Operationalising Taylor-type rules for the Indian economy: Issues and
 some results (1992Q3 2001Q4),
 [WP2004-07-04](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2004-07-04vineet.pdf){:target="_blank"},
 2004
 
-**W5**. Fan Charts as useful ‘Maps’ for an inflation-targeting central bank: An
+**W4**. Fan Charts as useful ‘Maps’ for an inflation-targeting central bank: An
 illustration of the Sveriges Riksbank’s method for presenting density forecasts
 of inflation,
 [WP2004-04-03](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2004-04-03vineet.pdf){:target="_blank"},
 2004
 
-**W4**. Estimating output gap for the Indian economy: Comparing results from
+**W3**. Estimating output gap for the Indian economy: Comparing results from
 Unobserved-Components models and the Hodrick-Prescott filter,
 [WP2004-04-02](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2004-04-02vineet.pdf){:target="_blank"},
 2004
 
-**W3**. Unit root tests: Results from some recent tests applied to select Indian
+**W2**. Unit root tests: Results from some recent tests applied to select Indian
 macroeconomic variables,
 [WP2004-02-04](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2004-02-04vineet.pdf){:target="_blank"},
 2004
-
-**W2**: Distribution of Cross-Section of Price Changes and Measurement of
-Inflation,
-[WP2003-12-02](https://www.iima.ac.in/sites/default/files/rnpfiles/2003-12-02vineet.pdf){:target="_blank"},
-2003
 
 **W1**: Developing a Back Series of Monthly and Quarterly National Income
 Estimates for India: 1983Q1 -- 1999Q4 (1993-94 = 100),
