@@ -20,6 +20,8 @@ author: Vineet
 ###############################################
 
 navbar-links:
+  Research: "research"
+  Teaching: "teaching"
   About: "about"
  # Resources:
  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
