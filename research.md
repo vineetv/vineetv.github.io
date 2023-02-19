@@ -7,27 +7,24 @@ title: Publications
 
 J15. Term structure estimation with liquidity-adjusted Affine Nelson Siegel
 model: A nonlinear state space approach applied to the Indian bond market,
-Applied Economics, 2022, Volume 54, Issue 6, [DOI:
-10.1080/00036846.2021.1967866](https://doi.org/10.1080/00036846.2021.1967866)
-(with [Sudarshan
+[Applied Economics](https://doi.org/10.1080/00036846.2021.1967866), 2022 (with
+[Sudarshan
 Kumar](https://stafflive.iimcal.ac.in/users/sudarshan){:target="_blank"})
 
 J14. Choice of margin period of risk and netting for computing margins in
-central counterparty clearinghouses: a Monte Carlo investigation, Journal of
-Financial Market Infrastructures, 2021, Volume 10, Number 2, [DOI:
-10.21314/JFMI.2022.003](http://doi.org/10.21314/JFMI.2022.003) (with [Jayanth
-R. Varma](https://www.jrvarma.in/){:target="_blank"})
+central counterparty clearinghouses: a Monte Carlo investigation, [Journal of
+Financial Market Infrastructures](http://doi.org/10.21314/JFMI.2022.003), 2021
+(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
 
 J13. Rational repricing of risk during Covid-19: Evidence from Indian single
-stock option market, Journal of Futures Markets, 2021, Volume 41, Issue 10,
-[DOI: 10.1002/fut.22240](https://doi.org/10.1002/fut.22240) (with [Jayanth
+stock option market, [Journal of Futures
+Markets](https://doi.org/10.1002/fut.22240), 2021 (with [Jayanth
 R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
 K. Agarwalla](https://www.iima.ac.in/faculty-research/faculty-directory/sobhesh-agarwalla))
 
 J12. The impact of COVID-19 on tail risk: Evidence from Nifty index options,
-Economics Letters, 2021, Volume 24, [DOI:
-10.1016/j.econlet.2021.109878](https://doi.org/10.1016/j.econlet.2021.109878)
-(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
+[Economics Letters](https://doi.org/10.1016/j.econlet.2021.109878), 2021 (with
+[Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"} and [Sobhesh
 K. Agarwalla](https://www.iima.ac.in/faculty-research/faculty-directory/sobhesh-agarwalla))
 
 J11. Web applications for teaching portfolio analysis and option pricing, Journal
@@ -35,19 +32,18 @@ of Financial Education, 2021 (with [Jayanth
 R. Varma](https://www.jrvarma.in/){:target="_blank"})
 
 J10. Time discount rate of forest dependent communities: Evidence from Andhra
-Pradesh, Vikalpa, 2021, Volume 44, Issue 2, [DOI:
-10.1177/02560909211015460](https://doi.org/10.1177/02560909211015460){:target="_blank"}(with
-B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
+Pradesh, [Vikalpa](https://doi.org/10.1177/02560909211015460){:target="_blank"},
+(with
+[B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
 
 J9. Shareholders’ reaction to ethical image of sports teams: an event study in
-the Indian Premier League, Decision, 2019, Volume 46, [DOI:
-10.1007/s40622-019-00230-9](https://doi.org/10.1007/s40622-019-00230-9){:target="_blank"}(with
+the Indian Premier League,
+[Decision](https://doi.org/10.1007/s40622-019-00230-9){:target="_blank"} (with
 [V. Pingali](https://www.iima.ac.in/faculty-research/faculty-directory/Viswanath-Pingali){:target="_blank"}
 and [S. Jaikumar](https://www.iimcal.ac.in/users/saravana){:target="_blank"})
 
-J8.Numeracy and Financial Literacy of Forest- dependent Communities, Vikalpa,
-2019, Volume 44, Issue 2, [DOI:
-10.1177/0256090919862059](https://doi.org/10.1177/0256090919862059){:target="_blank"}(with
+J8.Numeracy and Financial Literacy of Forest- dependent Communities,
+[Vikalpa](https://doi.org/10.1177/0256090919862059), 2019 (with
 B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
 
 J7. Structured Products for Corporate Risk Management, Global Business Press
@@ -57,10 +53,9 @@ R. Varma](https://www.jrvarma.in/){:target="_blank"})
 J6. Finance in a World of Negative Rates, Global Business Press Expert Insights,
 2016 (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
 
-J5. Computational Finance using QuantLib-Python, Computing in Science and
-Engineering, 2016, March-April, [DOI:
-10.1109/MCSE.2016.28](http://dx.doi.org/10.1109/MCSE.2016.28){:target="_blank"}(with
-[Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
+J5. Computational Finance using QuantLib-Python, [Computing in Science and
+Engineering](http://dx.doi.org/10.1109/MCSE.2016.28){:target="_blank"}, 2016
+(with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"})
    
 J4. Distribution of Cross-Section of Price Changes and Measurement of Inflation,
 Indian Economic Journal, 2012, Volume 60, Issue 2, July-Sept, [IEJ
@@ -69,17 +64,17 @@ link](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2003-12-02vineet.pdf
 link](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2003-12-02vineet.pdf){:target="_blank"}
 
 J3. On Estimability of Parsimonious Term Structure Models: An Experiment with
-the Nelson-Siegel Specification, Applied Economics Letters, 2012, Volume 19,
-Issue 17, [DOI:
-10.1080/13504851.2012.65734](http://www.tandfonline.com/doi/abs/10.1080/13504851.2012.657343){:target="_blank"}
+the Nelson-Siegel Specification, [Applied Economics
+Letters](http://www.tandfonline.com/doi/abs/10.1080/13504851.2012.657343){:target="_blank"}
 
-J2. GDP-Indexed Bonds, an RBI DRG study (with Errol D'Souza), 2010, April, [RBI
-DRG Study](http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/DSRS210410.pdf)
+J2. GDP-Indexed Bonds, an [RBI DRG
+study](http://rbidocs.rbi.org.in/rdocs/Publications/PDFs/DSRS210410.pdf) (with
+Errol D'Souza), 2010
    
-J1. A re-look at the long-run stability of the money multiplier in India, Indian
-Journal of Economics, 2007, April, [IJE
-link](http://www.indianjournalofeconomics.com/april2007.htm#4){:target="_blank"},
-[Working paper WP2006-06-01
+J1. A re-look at the long-run stability of the money multiplier in India,
+[Indian Journal of
+Economics](http://www.indianjournalofeconomics.com/april2007.htm#4){:target="_blank"},
+2007, April,, [Working paper WP2006-06-01
 link](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2004-09-02vineet.pdf){:target="_blank"}
 
 ## Working papers
