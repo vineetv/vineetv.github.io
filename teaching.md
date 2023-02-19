@@ -35,13 +35,14 @@ Fall 2014, Spring 2015
 
 *Financial Markets*: This course introduces finance theory and describes
 economics of bond, equity, FX and derivatives markets. This course forms the
-foundation for all subsequent finance courses at IIMA. I often teach this course
-to our PGP and PGPX students.
+foundation for all subsequent finance courses at IIMA. I regularly teach this
+course in our long duration and blended learning programs. 
 
 *Corporate Finance*: This course covers the principal decisions in corporate
 finance -- working capital management, investment and financing decisions,
 mergers and acquisitions, capital structure, dividend policy and risk
-management. I often teach this course to our PGPX students.
+management. I regularly teach this course in our long duration and blended
+learning programs.
 
 *Macroeconomics and Economic Policy*: Why do some countries grow at a faster
 rate than others? Why are there inflation, unemployment and recessions? What are
