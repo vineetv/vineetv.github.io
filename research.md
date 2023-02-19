@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Research
+title: Publications
 ---
 
-### Publications
+### Journal articles and book chapters
 
 1. [The Impact of Criminal Fines on Labor Market Outcomes and Recidivism: A
    Multi-State Study](research/lieberman_luh_mueller-smith_2023.pdf) (with
