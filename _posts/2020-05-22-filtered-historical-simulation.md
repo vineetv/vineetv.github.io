@@ -2,7 +2,7 @@
 layout: post
 title: Filtered historical simulation
 subtitle: How some clearing corporations compute margins for options
-tags: [margins, clearing, derivatives, value at risk]
+tags: [clearing, derivatives, fhs, margins, value at risk]
 comments: true
 ---
 
