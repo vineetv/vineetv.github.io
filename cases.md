@@ -3,12 +3,13 @@ layout: page
 title: Cases and Technical Notes
 ---
 
-## Cases
+## Cases and Technical Notes
 
 **C7. Reliance Communications: On the Brink of Bankruptcy** (with [Jayanth
-R. Varma](https://www.jrvarma.in/)): [Case no.
-F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html).  
+R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
 
+[Case no.
+F&A0560](https://cases.iima.ac.in/index.php/reliance-communications-on-the-brink-of-bankruptcy.html):
 This case describes the change in fortune of Reliance Communications (RCom) from
 being a pioneer in offering low-cost mobile telephony to the brink of
 bankruptcy. After giving a brief background on the family history of Reliance
@@ -24,21 +25,97 @@ including its market share, stock price, credit rating and balance sheet
 variables. The case would be appropriate for use in an advanced corporate
 finance or a strategic risk management or a trading strategies course.  
 
-**C2. Asset Pricing**: This PhD course introduces the theory of financial
-economics and the language of modern asset pricing in discrete time. The course
-adopts the state price and stochastic discount factor approaches to asset
-pricing based on expected utility theory. Within this framework, the course
-covers the classical mean variance models including the CAPM and APT as well as
-the inter-temporal consumption based asset pricing model. The entire course is
-based on a discrete time and mostly discrete state space setting, with a focus
-on equity markets. The course ends with a survey of stylized facts and issues in
-empirical asset pricing.
+**C6. Swap Curve Steepener** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
 
-**C1. Financial Markets**: This MBA course introduces finance theory and
-describes economics of bond, equity, FX and derivatives markets. This compulsory
-course forms the foundation for all subsequent finance courses. I regularly
-teach this course in our on-campus long duration and online/blended learning
-programs.
+[Case no.
+F&A0539](https://cases.iima.ac.in/index.php/swap-curve-steepener.html): The case
+is about a decision problem facing James on whether or not to invest in a
+structured product called the “CMS Steepener” issued by a large US investment
+bank. The payoff from the product is linked to two constant maturity swap (CMS)
+rates, and the investor profits if the difference between the two CMS rates
+increases, or alternatively if the CMS curve steepens. The case describes the
+risks that investing in such a product poses, and presents relevant data on the
+CMS rates, term structure and recent financial history of the issuer to help
+resolve James’s decision problem.  
+
+**C5. Hundred Million Dollar Beta** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+
+[Case
+no. F&A0534](https://cases.iima.ac.in/index.php/hundred-million-dollar-beta.html):
+This case is about the practical and conceptual issues involved in estimating
+the beta of a company for the purpose of computing the cost of capital using the
+CAPM (Capital Asset Pricing Model). In many applications of the CAPM in the
+classroom, the beta is assumed to be known or is exogenously specified. This
+case is an opportunity to confront the fact that, in the real world the beta has
+to be estimated and there is often a wide range of uncertainity (confidence
+interval)around any point estimate of the beta. The issue that Delaware Chencery
+Court Vice Chancellor Judge Travis Laster needed to resolve in October 2014 was
+that the beta estimated by te plaintiff and the defendant varied so
+substantially that they implied a difference of over $100 million in the
+valuation of Rural-Metro. The case provides alive context to discuss conceptual
+and statistical issues that are often glossed over as minor details of the
+estimation process. In the real world, these apparantely minor details make a
+big difference to the results and can no longer be ignored. In an advanced
+course, the case also provides an opportunity to expose the participants to the
+large academic literature on beta estimation.  
+
+**C4. Swiss Roll (B)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+
+[Case no. F&A0532(B)](https://cases.iima.ac.in/index.php/swiss-roll-b.html): In
+the aftermath of global financial crisis of 2008 and the ensuing capital flows
+into Switzerland, the Swiss National Bank (SNB) decided to peg Swiss Franc (CHF)
+to the Euro (EUR), and announced that it would not let CHF go beyond 1.20
+starting 6 September, 20 11. With ever-increasing capital flows, maintaining the
+peg required the SNB to purchase foreign currency assets almost endlessly, and
+by the end-of 2014 its foreign exchange reserves stood at almost 80% of its
+Gross Domestic Product. With the European Central Bank announcing its
+"quantitative easing" program from 2015, and faced with the prospect of a
+massive balance sheet, SNB finally decided to discontinue the peg starting
+January 15,2015. lmmediately after the peg was removed, the CHF surged by almost
+30% to EUR and this left many market participants stranded with losses worth
+hundreds of millions of dollars. This case describes the market turmoil and the
+main casualties after the peg was discontinued, with a focus on one particular
+retail foreign exchange (FX) brokerage firm, FXCM Inc., which was left with a
+negative equity of almost $300 million after removal of the peg.  
+ 
+**C3. Swiss Roll (A)** (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}))  
+
+[Case no. F&A0532(A)](https://cases.iima.ac.in/index.php/swiss-roll-a.html): In
+September, 2011, to prevent its currency from appreciating after the Global
+Financial Crisis, the Swiss National Bank (SNB) decided to peg its currency to
+EUR and announced that it would not let CHF go beyond 1/1.20 EUR. Maintaining
+the peg required the SNB to purchase foreign currency assets virtually endlessly
+in response to the worsening Eurozone crisis. By end of 2014, its foreign
+currency exchange reserves amounted to almost 80% of its GDP. In an attempt to
+deter capital flows and reduce its balance sheet size, in December, 2014, the
+SNB first bought the interest rate on commercial bank deposits to negative
+levels and then, facing impending quantitative easing by the European Central
+Bank, announced the removal of the peg on January 15, 2015. The case describes
+the backdrop and the circumstances leading up to removal of the peg.  
+
+**C2. Industrial Financing Corporation of India Ltd. (IFCI) -- B** (with G. Raghuram and Chitra Singla)  
+
+[Case no. BP0363(B)](https://cases.iima.ac.in/index.php/ifci-limited-b.html):
+IFCI Limited-a non-banking financial corporation in India was struggling with
+issues of negative Capital Adequacy Ratio and high non-performing assets
+till 2007. The company had not done any business for a decade until 2007. July,
+2007 was the time when Atul Rai joined the company as the CEO. This case
+revolves around the various strategic initiatives taken by Rai and his team to
+help the firm turnaround. The main focus of the case is on the implementation of
+some of the key strategic decisions. The case gives opportunity to review IFCI’s
+strategy and make recommendations for future expansion.  
+
+**C1. Industrial Financing Corporation of India Ltd. (IFCI) -- A** (with G. Raghuram and Chitra Singla)  
+
+[Case no. BP0363(A)](https://cases.iima.ac.in/index.php/ifci-limited-a.html):
+This case mainly talks about the journey of IFCI since its inception amidst the
+institutional changes that had taken place in India; how the changing
+institutional context of an emerging economy like India could affect the growth
+path of a firm in a regulated industry; and how a leadership style attempted to
+turn around and build the firm's position in the industry. Atul Rai had taken a
+number of initiatives in light of the above. Next on his agenda was to turn IFCI
+into a leading financial institution and come up with a road map to achieve
+this.  
 
 ## E. Current elective courses (in descending order of their offering)
 
