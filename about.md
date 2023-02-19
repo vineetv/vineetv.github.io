@@ -10,7 +10,7 @@ India. This is a personal blog which I use to organize observations around my
 research, teaching and other interests, mostly.
 
 Do not take anything you see here too seriously (the hint lies in the blog
-name!).  In the words of inimitable [Matt
+name!).  To borrow the words of inimitable [Mr.
 Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine){:target="_blank"},
 nothing here is investment or legal or career advice.
 
