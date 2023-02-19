@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 ---
 
-## Current core courses
+## C. Current core courses
 
 **C3. Corporate Finance**: This MBA course covers the principal decisions in
 corporate finance -- working capital management, investment and financing
@@ -27,7 +27,7 @@ course forms the foundation for all subsequent finance courses. I regularly
 teach this course in our on-campus long duration and online/blended learning
 programs.
 
-## Current elective courses (in descending order of their offering)
+## E. Current elective courses (in descending order of their offering)
 
 **E5. Black Swans and Gray Rhinos**: Made popular by Nicholas Nassim Taleb,
 "black swans" has long been used as a metaphor in financial markets for rare and
@@ -53,7 +53,7 @@ credit derivatives. This course is offered with [Jayanth
 R. Varma](https://www.jrvarma.in/){:target="_blank"}.
 
 
-## Old or discontinued or one-off courses (in descending order of their last offering)
+## O. Old or discontinued or one-off courses (in descending order of their last offering)
 
 **O7. Financial Risk Management**: This MBA course was designed to study the
 role and elements of risk management in financial institutions. After studying
