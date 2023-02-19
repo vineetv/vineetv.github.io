@@ -32,29 +32,29 @@ K. Agarwalla](https://www.iima.ac.in/faculty-research/faculty-directory/sobhesh-
 
 **J11**. Web applications for teaching portfolio analysis and option pricing,
 Journal of Financial Education, 2021 (with [Jayanth
-R. Varma](https://www.jrvarma.in/){:target="_blank"}) [published version of
+R. Varma](https://www.jrvarma.in/){:target="_blank"}) [published version of W20,
 [WP2017-03-05](https://web.iima.ac.in/assets/snippets/workingpaperpdf/2582881092017-03-05.pdf){:target="_blank"}]
 
 **J10**. Time discount rate of forest dependent communities: Evidence from
 Andhra Pradesh,
 [Vikalpa](https://doi.org/10.1177/02560909211015460){:target="_blank"}, (with
 [B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
-[published version of
-[WP2013-12-02](http://www.iima.ac.in/assets/snippets/workingpaperpdf/17809571402013-12-02.pdf)
+[published version of W15,
+[WP2013-12-02](http://www.iima.ac.in/assets/snippets/workingpaperpdf/17809571402013-12-02.pdf)]
 
 **J9**. Shareholders’ reaction to ethical image of sports teams: an event study
 in the Indian Premier League,
 [Decision](https://doi.org/10.1007/s40622-019-00230-9){:target="_blank"} (with
 [V. Pingali](https://www.iima.ac.in/faculty-research/faculty-directory/Viswanath-Pingali){:target="_blank"}
 and [S. Jaikumar](https://www.iimcal.ac.in/users/saravana){:target="_blank"})
-[published version of
+[published version of W18,
 [WP2015-03-16](https://www.iima.ac.in/sites/default/files/rnpfiles/17199785302015-03-12.pdf){:target="_blank"}]
 
 **J8**.Numeracy and Financial Literacy of Forest- dependent Communities,
 [Vikalpa](https://doi.org/10.1177/0256090919862059){:target="_blank"}, 2019
 (with
 [B. Sundar](https://www.icegov.org/people/sundar-balakrishna/){:target="_blank"})
-[published version of
+[published version of W13,
 [WP2013-09-02](https://www.iima.ac.in/sites/default/files/rnpfiles/8206755502013-09-02.pdf)]
 
 **J7**. Structured Products for Corporate Risk Management, Global Business Press
@@ -68,19 +68,19 @@ R. Varma](https://www.jrvarma.in/){:target="_blank"})
 **J5**. Computational Finance using QuantLib-Python, [Computing in Science and
 Engineering](http://dx.doi.org/10.1109/MCSE.2016.28){:target="_blank"}, 2016
 (with [Jayanth R. Varma](https://www.jrvarma.in/){:target="_blank"}) [published
-version of
+version of W17,
 [WP2015-03-16](http://icmrindia.vikalpa.com/assets/snippets/workingpaperpdf/10947720332015-03-16.pdf){:target="_blank"}]
    
 **J4**. Distribution of Cross-Section of Price Changes and Measurement of
 Inflation, [Indian Economic
 Journal](https://doi.org/10.1177/001946622012020){:target="_blank"}, 2012
-[published version of
+[published version of W2,
 [WP2003-12-02](https://www.iima.ac.in/sites/default/files/rnpfiles/2003-12-02vineet.pdf){:target="_blank"}]
 
 **J3**. On Estimability of Parsimonious Term Structure Models: An Experiment
 with the Nelson-Siegel Specification, [Applied Economics
 Letters](http://www.tandfonline.com/doi/abs/10.1080/13504851.2012.657343){:target="_blank"},
-2012 [published version of
+2012 [published version of W11,
 [WP2006-06-01](http://www.iima.ac.in/assets/snippets/workingpaperpdf/2006-06-01vvirmani.pdf){:target="_blank"}]
 
 **J2**. GDP-Indexed Bonds, an [RBI DRG
@@ -90,7 +90,7 @@ Errol D'Souza), 2010
 **J1**. A re-look at the long-run stability of the money multiplier in India,
 [Indian Journal of
 Economics](http://www.indianjournalofeconomics.com/april2007.htm#4){:target="_blank"},
-2007 [published version of
+2007 [published version of W7,
 [WP2004-09-02](https://www.iima.ac.in/sites/default/files/rnpfiles/2004-09-02vineet.pdf){:target="_blank"}]
 
 ## Working papers
