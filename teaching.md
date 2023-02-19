@@ -5,30 +5,31 @@ title: Teaching
 
 ## Current core courses
 
-*Asset Pricing*: This PhD course introduces the theory of financial economics
-and the language of modern asset pricing in discrete time. The course adopts the
-state price and stochastic discount factor approaches to asset pricing based on
-expected utility theory. Within this framework, the course covers the classical
-mean variance models including the CAPM and APT as well as the inter-temporal
-consumption based asset pricing model. The entire course is based on a discrete
-time and mostly discrete state space setting, with a focus on equity
-markets. The course ends with a survey of stylized facts and issues in empirical
-asset pricing.
-
-*Financial Markets*: This MBA course introduces finance theory and describes
-economics of bond, equity, FX and derivatives markets. This compulsory course
-forms the foundation for all subsequent finance courses. I regularly teach this
-course in our on-campus long duration and online/blended learning programs.
-
-*Corporate Finance*: This MBA course covers the principal decisions in corporate
-finance -- working capital management, investment and financing decisions,
-mergers and acquisitions, capital structure, dividend policy and risk
+**C3. Corporate Finance**: This MBA course covers the principal decisions in
+corporate finance -- working capital management, investment and financing
+decisions, mergers and acquisitions, capital structure, dividend policy and risk
 management. I regularly teach this course in our on-campus long duration and
 online/blended learning programs.
 
+**C2. Asset Pricing**: This PhD course introduces the theory of financial
+economics and the language of modern asset pricing in discrete time. The course
+adopts the state price and stochastic discount factor approaches to asset
+pricing based on expected utility theory. Within this framework, the course
+covers the classical mean variance models including the CAPM and APT as well as
+the inter-temporal consumption based asset pricing model. The entire course is
+based on a discrete time and mostly discrete state space setting, with a focus
+on equity markets. The course ends with a survey of stylized facts and issues in
+empirical asset pricing.
+
+**C1. Financial Markets**: This MBA course introduces finance theory and
+describes economics of bond, equity, FX and derivatives markets. This compulsory
+course forms the foundation for all subsequent finance courses. I regularly
+teach this course in our on-campus long duration and online/blended learning
+programs.
+
 ## Current elective courses (in descending order of their offering)
 
-*Black Swans and Gray Rhinos*: Made popular by Nicholas Nassim Taleb, "black
+**Black Swans and Gray Rhinos**: Made popular by Nicholas Nassim Taleb, "black
 swans" has long been used as a metaphor in financial markets for rare and almost
 impossible-to-predict large shocks. Noticing that often many crisis are a result
 of ignoring the obvious, Michel Wucker coined the "gray rhinos" metaphor to
@@ -44,10 +45,11 @@ decisions.
 This course is offered with [Jayanth
 R. Varma](https://www.jrvarma.in/){:target="_blank"}.
 
-*Fixed Income Securities*: This MBA elective is designed to provide theoretical
-and practical understanding of fixed income securities, credit risk, and
-securitization both from the perspective of an investment manager or financial
-intermediary and from the perspective of an issuer of these securities. There is
+**Fixed Income Securities**: This MBA elective is designed to provide
+theoretical and practical understanding of fixed income securities, credit risk,
+and securitization both from the perspective of an investment manager or
+financial intermediary and from the perspective of an issuer of these
+securities. There is
 only very minimal coverage of fixed income derivatives and credit derivatives.  
 This course is offered with [Jayanth
 R. Varma](https://www.jrvarma.in/){:target="_blank"}.
@@ -55,8 +57,8 @@ R. Varma](https://www.jrvarma.in/){:target="_blank"}.
 
 ## Old or discontinued or one-off courses (in descending order of their offering)
 
-*Financial Risk Management*: This MBA course was designed to study the role and
-elements of risk management in financial institutions. After studying the
+**Financial Risk Management**: This MBA course was designed to study the role
+and elements of risk management in financial institutions. After studying the
 environment in which commercial banks, investment firms and hedge funds operate
 in, and the need for a dedicated risk management function in large financial
 institutions, the course separately discussed the practical and regulatory
@@ -66,7 +68,7 @@ organization of the risk management function and the evolving regulatory
 landscape after the global financial crisis.  
 The course was offered once (with Saee Joshi, a PGP 1997 alumnus) in 2022.
 
-*Derivatives Pricing*: This PhD course was designed to provide an introduction
+**Derivatives Pricing**: This PhD course was designed to provide an introduction
 to the theory of derivatives pricing models in continuous-time. Beginning with a
 review of relevant prerequisites, the course first built the intuition of
 necessary concepts using discrete time models before moving to derivatives
@@ -78,7 +80,7 @@ of derivatives pricing.
 This course was offered every year from 2013 to 2019, with its last offering in
 2019.
 
-*Analytics of Financial Risk Management*: This MBA course was designed to
+**Analytics of Financial Risk Management**: This MBA course was designed to
 provide a brief introduction to the mathematical theory of risk measures and
 their applications in financial risk management. In particular, the course
 covered the following topics: i) idea of risk factors and loss distributions,
@@ -87,7 +89,7 @@ measures, iv) extremal risk measures, and v) Bayesian approach to risk
 management.  
 This course was offered twice, with its last offering in 2015.
 
-*Computational Finance*: This MBA course was designed to introduces numerical
+**Computational Finance**: This MBA course was designed to introduces numerical
 methods for pricing derivative securities in practice. The focus of the course
 was on the use of Monte Carlo and Finite Difference methods for pricing equity
 and foreign exchange derivatives. The course ended with a discussion of
@@ -97,7 +99,7 @@ R. Varma](https://www.jrvarma.in/){:target="_blank"}), with its last offering
 in 2013. A version of this course was also taught at [DAIICT,
 Gandhinagar](https://www.daiict.ac.in/) in 2016.
 
-*Macroeconomics and Economic Policy*: Why do some countries grow at a faster
+**Macroeconomics and Economic Policy**: Why do some countries grow at a faster
 rate than others? Why are there inflation, unemployment and recessions? What are
 the sources of these aggregate economic fluctuations? Can the government
 policymakers do something about them? Should they? This course provides a
