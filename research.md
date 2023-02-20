@@ -158,7 +158,7 @@ macroeconomic variables,
 **W1**: Developing a Back Series of Monthly and Quarterly National Income
 Estimates for India: 1983Q1 -- 1999Q4 (1993-94 = 100),
 [WP2003-10-03](https://www.iima.ac.in/sites/default/files/rnpfiles/2003-10-03vineet.pdf){:target="_blank"}
-(with Rohit Kapoor), 2003
+(with [Rohit Kapoor](https://www.iimidr.ac.in/faculty/full-time-faculty/profile/?id=55){:target="_blank"}), 2003
 
 ## D. Doctoral thesis
 

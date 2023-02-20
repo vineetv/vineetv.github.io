@@ -152,8 +152,8 @@ Applications**: [TN no.
 F&A0523TEC](https://cases.iima.ac.in/index.php/probability-in-finance-ii-numeraire-change-in-option-pricing-select-applications.html){:target="_blank"}
 
 This technical note lays out the necessary background with examples for
-numeraire change applications in stochastic calculus. Four examples are
-presented with full workings, including:a) pricing of a call option, b) pricing
+numeraire change applications in stochastic calculus. The note presents four
+examples with full workings, including :a) pricing of a call option, b) pricing
 of an exchange/Margrabe option, c) relationship between forward rates and
 expected spot rates and d) use of change of numeraire in foreign markets.
 

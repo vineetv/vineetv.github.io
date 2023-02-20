@@ -61,7 +61,7 @@ covers the microeconomics of risk and risk aversion, origins of the Capital
 Asset Pricing Model, classical theories underlying capital structure and
 dividend policy, and risk management. This course was started in 2022. 
 
-**E3. Foundations of Finance**: This MBA course is designed to introduce
+**E3. Strategic Corporate Finance**: This MBA course is designed to introduce
 strategic corporate finance issues that Chief Financial Officers have to deal
 with in a variety of corporations ranging from mature organizations to newly
 listed firms to unicorns. Building upon the basics covered in the core PGPX
