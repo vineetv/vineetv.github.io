@@ -225,8 +225,8 @@ hs <- quantile(returns[, 1], 0.05)[[1]]
 specGarch <- ugarchspec(mean.model=list(armaOrder=c(0,0), include.mean=FALSE)),
                         distribution = 'std')
 fitGarch <- ugarchfit(specGarch, returns[, 1], rec.init = 'all')
-returns$$ volGarch <- sigma(fitGarch)
-returns$$ scaledGarch <- returns[, 1]/returns$volGarch
+returns$volGarch <- sigma(fitGarch)
+returns$scaledGarch <- returns[, 1]/returns$volGarch
 whsGarch <- quantile(returns$scaledGarch, 0.05)[[1]] *
 		        as.numeric(tail(returns$$ volGarch, 1))
 bootGarch <- sample(returns$scaledGarch, num, replace = TRUE)

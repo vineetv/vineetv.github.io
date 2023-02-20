@@ -27,7 +27,7 @@ course forms the foundation for all subsequent finance courses. I regularly
 teach this course in our on-campus long duration and online/blended learning
 programs.
 
-### Current elective courses (in descending order of their first offering)
+### Current elective courses
 
 **E6. International Financial Markets**: This MBA course is designed to
 introduce the students to practicalities and language of international financial
@@ -101,7 +101,7 @@ credit derivatives. This course is with [Jayanth
 R. Varma](https://www.jrvarma.in/){:target="_blank"}, and regularly offered
 since 2014.
 
-### Old or one-off courses (in descending order of their last offering)
+### Old or one-off courses, in descending order of their last offering
 
 **O12. Financial Risk Management**: This MBA course was designed to study the
 role and elements of risk management in financial institutions. After studying
